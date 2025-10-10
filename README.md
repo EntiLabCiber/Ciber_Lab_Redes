@@ -17,5 +17,3 @@ El objetivo es aplicar los conceptos teóricos vistos en clase mediante la confi
 
 
 ```bash
-git clone https://github.com/usuario/redes-practicas.git
-cd redes-practicas/practica1
