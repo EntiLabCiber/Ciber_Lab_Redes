@@ -15,9 +15,9 @@ El objetivo es aplicar los conceptos teóricos vistos en clase mediante la confi
 
 ## 🚀 Uso
 
-- **1r PASO:**- Conectar cable ethernet del pc a la entrada MGTM del FortiGate 121G.
-- **2o PASO:**- Acceder a la interfaz gráfica desde la ip 192.168.1.99 e iniciar sesión con las credenciales admin y la contraseña en blanco.
-  - **2.1:**- Para acceder desde ssh introducir el comando ```sudo ssh 192.168.1.99@admin``` en la terminal, posteriormente introducir la contraseña.
-- **3r PASO**- Para guardar las configuraciones ir a configuration, backup e introducir un usb en el puerto de la torre con formato fat. 
-  - **3.1:**- Para guardar la configuración desde la terminal se debe acceder a la terminal del FortiGate 121G desde la parte superior derecha e introducir el comando execute backup config usb nombre_del_archivo.txt
-- **4o PASO**- Cuando se acaben las configuraciones pertimnentes poner execute factoryreset en la terminal del FortiGate121G.
+- **1º PASO:**- Conectar cable ethernet del pc a la entrada MGTM del FortiGate 121G.
+- **2º PASO:**- Acceder a la interfaz gráfica desde la ip 192.168.1.99 e iniciar sesión con las credenciales admin y la contraseña en blanco.
+  - **2.1º:**- Para acceder desde ssh introducir el comando ```sudo ssh 192.168.1.99@admin``` en la terminal, posteriormente introducir la contraseña.
+- **3º PASO**- Para guardar las configuraciones ir a configuration, backup e introducir un usb en el puerto de la torre con formato fat. 
+  - **3.1º:**- Para guardar la configuración desde la terminal se debe acceder a la terminal del FortiGate 121G desde la parte superior derecha e introducir el comando execute backup config usb nombre_del_archivo.txt
+- **4º PASO**- Cuando se acaben las configuraciones pertinentes y se haya guardado correctamente, introducir el comando execute factoryreset en la terminal del FortiGate121G.
