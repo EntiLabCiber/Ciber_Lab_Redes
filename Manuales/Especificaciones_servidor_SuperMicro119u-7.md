@@ -1,4 +1,4 @@
-Especificaciones Técnicas — Supermicro 119U-7
+# Especificaciones Técnicas — Supermicro 119U-7
 
 | Categoría                    | Especificación                                                              |
 | ---------------------------- | --------------------------------------------------------------------------- |
